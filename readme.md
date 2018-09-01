@@ -1,3 +1,5 @@
+#Forked to be updated to Python 3
+
 # Slideshare Downloader
 
 This python script to download slide from Slideshare and converted into pdf automatically.
